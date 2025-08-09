@@ -1,6 +1,15 @@
-# 👋 Hi, I'm Barış Dürek
-### 💻 About Me
-* I'm a 4th-year Computer Engineering student.
-* Developing projects in C and Python languages.
+<h1 align="center">Barış Dürek</h1>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barisdurek&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  Computer Engineering Student | 4th Year <br>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barisdurek&layout=compact&theme=dark" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/barisdurek">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
