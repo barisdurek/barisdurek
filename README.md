@@ -1,7 +1,7 @@
 <h1 align="center">Barış Dürek</h1>
 
 <p align="center">
-  Computer Engineering Student | 4th Year <br>
+  Computer Engineer <br>
 </p>
 
 <p align="center">
